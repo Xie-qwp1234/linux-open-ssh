@@ -1,5 +1,5 @@
 # linux-open-ssh
-開啟linux ssh功能&amp;解決連線問題
+開啟 linux ssh 功能&amp;解決連線問題
 # 一、安裝 OpenSSH 伺服器
 
 Debian 預設不一定會裝 SSH 服務，先裝上：
