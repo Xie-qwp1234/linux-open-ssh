@@ -78,7 +78,7 @@ sudo ufw allow 2222/tcp
 ## 五、從 Windows 測試 SSH 登入
 ## 用 PowerShell：
 ```
-ssh root@192.168.50.124
+ssh root@(your ip)
 ```
 
 第一次會跳出：
